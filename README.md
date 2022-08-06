@@ -66,7 +66,7 @@ I can't stop you. Just don't claim that you made it, please.
   
 Not the previous one, for obvious reasons. The rest were.
   
-**8. Is the description lore-accurate?**  
+**8. Is the item description lore-accurate?**  
   
 I have no idea. I frankly do not care, and changing the item itself is tedious, but I will if extraordinary circumstances warrant it.
   

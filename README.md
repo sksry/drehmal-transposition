@@ -55,7 +55,7 @@ I can't stop you. Just don't claim that you made it, please.
   
 **7. Were these questions actually asked?**  
   
-Not the last one, for obvious reasons. The rest were.
+Not the previous one, for obvious reasons. The rest were.
   
 **8. Is the description lore-accurate?**  
   

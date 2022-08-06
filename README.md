@@ -30,7 +30,7 @@ to see it in action (warning: download link).
 # How player identification works
 The loot table gets the skull of the player who loots the table, which contains the player name as a plaintext string in `SkullOwner.Name`.  
   
-When a player teleport request is made, markers are placed at the location of every player, which are assigned skulls of the corresponding players as helmets (Minecraft limitation) with `loot replace`, which are then copied into their chestplates for aesthetic's sake.    
+When a player teleport request is made, markers are placed at the location of every player, which are assigned skulls of the corresponding players as helmets (Minecraft limitation) with `loot replace`, which are then moved to their chestplate slots for aesthetic's sake.    
   
 The title of written books (which is a plaintext, unlike the book's content; Minecraft limitation) is compared to every player marker when a teleport request is made.   
   

@@ -49,7 +49,7 @@ If popular demand for the ability to modify this datapack warrants it.
 
 **3. What happens if you teleport to a player that does not want to be teleported to?**  
   
-Tell them to either deal with it or change their name to something 16 characters long. You emerge from a player teleport with 8 seconds of Slowness I and Weakness IV, so the only advantage you have is the element of surprise (and even then, only with Invisibility, as you are blinded upon teleport).
+Tell them to either deal with it or change their name to something 16 characters long. You emerge from a player teleport with 8 seconds of Slowness I and Weakness V, so the only advantage you have is the element of surprise (and even then, only with Invisibility, as you are blinded upon teleport).
   
 **4. Can you teleport back from the Terminus or teleport another player to you?**  
   

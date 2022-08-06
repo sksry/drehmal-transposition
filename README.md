@@ -81,7 +81,7 @@ With the seventh question in mind, no. I was just asked to make this.
 # Questions that I just thought of
 **1. What if there's a bug? Will you change that?**  
   
-If there is one, please contact me on Discord (seeksery#0382). I will fix problems in existing features.
+If there is one, please contact me on Discord (`seeksery#0382`). I will fix problems in existing features.
   
 **2. What do you mean by "Minecraft limitation"?**  
   

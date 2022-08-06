@@ -1,5 +1,5 @@
 # Warnings
-- This datapack may conflict with future versions of Drehmal. This is intended for v2.1.1.
+- This datapack may conflict with future versions of Drehmal. This is intended for `v2.1.1`.
 - You use this datapack at your own risk. This is open-source, so you can personally determine whether or not this is safe to use. However, it is not commented for readability (for the most part). 
 
 # Basics
@@ -40,7 +40,7 @@ All markers are cleared after a teleport attempt is made.
 # Questions asked during initial testing
 **1. Can I teleport to myself?**  
   
-No. You will instantly die. This is an intended feature that can be disabled by commenting out a certain section of transpose.mcfunction.
+No. You will instantly die. This is an intended feature that can be disabled by commenting out a certain section of `transpose.mcfunction`.
 
 **2. Will you make the functions more readable?**  
     

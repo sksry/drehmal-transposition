@@ -33,7 +33,9 @@ When a player teleport request is made, markers are placed at the location of ev
   
 The title of written books (which is a plaintext, unlike the book's content; Minecraft limitation) is compared to every player marker when a teleport request is made.   
   
-If a player marker with a matching username in its chestplate slot's appropriate data path is found, it is teleported to.    
+If a player marker with a matching username in its chestplate slot's appropriate data path is found, it is teleported to.  
+  
+All markers are cleared after a teleport attempt is made.  
 
 # Questions asked during initial testing
 **1. Can I teleport to myself?**  
@@ -81,6 +83,15 @@ With the seventh question in mind, no. I was just asked to make this.
   
 If there is one, please contact me on Discord (seeksery#0382). I will fix problems in existing features.
   
-**2. Isn't that just one question?**  
+**2. What do you mean by "Minecraft limitation"?**  
   
-Now it isn't.
+Mojang, in their infinite wisdom, decided to store strings as strings in some cases, as JSON in some other cases, and as JSON transformed into strings in still other cases. I can not use selectors to generate useful JSON strings with signs or loot tables, as it stores it in a format that can not be compared to the text within a book. Furthermore, I can not edit the data to be useful, as Minecraft offers no way of editing strings with commands. There is no reasonable way to get and store player names in a '{"text":"`name`"}' format, which is what I need to match the content of the book. However, the title of the book is a plaintext string. This can be directly compared to the 'SkullOwner.Name' of a loot table-generated skull. As far as I'm aware, this is the only case where this is true for player names in all of Vanilla Minecraft.  
+  
+If you decide to be a smart-aleck and say that I could make it so that you _rename_ items to choose a player to teleport to, I will:  
+1. Commend you on your knowledge of the '{"text":"`name`"}' format.
+2. Bring harm to you through ways that I am not allowed to describe here.
+3. Point out that it would conflict with the ninth initial testing question.  
+  
+in that order. You have been warned.  
+  
+As for the other limitation in question, for some reason, you can not `loot replace` any slot on an armor stand other than the helmet with a loot table-generated player head (even though you could reasonably want the stand to hold it, for example).

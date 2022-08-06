@@ -14,7 +14,7 @@ transpose(user, dest)
 else:
 avSys.error()
 ```
-into a Book and Quill and sign it. Alternatively, for testing purposes, run:
+into a Book and Quill and sign it with any title. Alternatively, for testing purposes, run:
 ```
 /give @p written_book{Transposition:1}
 ```

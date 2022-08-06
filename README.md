@@ -42,7 +42,7 @@ All markers are cleared after a teleport attempt is made.
   
 No. You will instantly die. This is an intended feature that can be disabled by commenting out a certain section of transpose.mcfunction.
 
-**2. Will you make this more readable?**  
+**2. Will you make the functions more readable?**  
     
 If popular demand for the ability to modify this datapack warrants it.
 

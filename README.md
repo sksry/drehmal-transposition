@@ -68,3 +68,12 @@ I was going to implement a cost. I chose not to, because the SMP's co-owner thre
 **10. Aren't you the SMP owner?**  
   
 With the seventh question in mind, no. I was just asked to make this.
+
+# Questions that I just thought of
+**1. What if there's a bug? Will you change that?**  
+  
+If there is one, please contact me on Discord (seeksery#0382). I will fix problems with existing features.
+  
+**2. Isn't that just one question?**  
+  
+Now it isn't.

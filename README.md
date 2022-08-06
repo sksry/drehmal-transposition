@@ -1,8 +1,8 @@
-#Warnings
+# Warnings
 - This datapack may conflict with future versions of Drehmal. This is intended for v2.1.
 - You use this datapack at your own risk. This is open-source so you can personally determine whether or not this is safe to use. However, it is not commented for readability. 
 
-#Basics
+# Basics
 - The Book of Transposition is very easy to obtain. Type:
 ```
 avSys.set_transpose(user, syntax)
@@ -19,10 +19,12 @@ into a Book and Quill and sign it.
 - You may teleport to a player by typing "Teleport" into the book and titling the book with the player you want to teleport to.
 - You may not teleport under any circumstances while in Adventure Mode. This is to prevent leaving areas such as the Terminus without properly modifying the game state.
 
-#How it works
-The loot table gets the skull of the player who loots the table, which contains the player name as a plaintext string in SkullOwner.Name. When a player teleport request is made, markers are placed at the location of every player, which are assigned skulls of the corresponding players as helmets (Minecraft limitation) which are then copied into their chestplates for aesthetic's sake. The title of written books (which is a plaintext, unlike the book's content; Minecraft limitation) is compared to every player marker when a teleport request is made. If a player marker with a matching username in its chestplate slot's appropriate data path is found, it is teleported to.
+# How it works
+The loot table gets the skull of the player who loots the table, which contains the player name as a plaintext string in SkullOwner.Name.
+When a player teleport request is made, markers are placed at the location of every player, which are assigned skulls of the corresponding players as helmets (Minecraft limitation) which are then copied into their chestplates for aesthetic's sake.
+The title of written books (which is a plaintext, unlike the book's content; Minecraft limitation) is compared to every player marker when a teleport request is made. If a player marker with a matching username in its chestplate slot's appropriate data path is found, it is teleported to.
 
-#Questions asked during initial testing
+# Questions asked during initial testing
 1. Can I teleport to myself?
 No. You will instantly die. This is an intended feature that can be disabled by commenting out a certain section of transpose.mcfunction.
 

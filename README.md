@@ -22,8 +22,8 @@ and hold the resulting item.
 - You may teleport to the Terminus by typing "Terminus" into the book and signing it with any title.
 - You may teleport to a player by typing "Teleport" into the book and titling the book with the player you want to teleport to.
 - You may not teleport under any circumstances while in Adventure Mode. This is to prevent leaving areas such as the Terminus without properly modifying the game state.
-- Refer to this video:
-https://cdn.discordapp.com/attachments/723994031129886832/1005370357999468614/trans.mp4
+- Refer to this video:  
+https://cdn.discordapp.com/attachments/723994031129886832/1005370357999468614/trans.mp4  
 to see it in action (warning: download link).
 
 # How it works

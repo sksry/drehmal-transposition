@@ -68,7 +68,7 @@ Not the previous one, for obvious reasons. The rest were.
   
 **8. Is the item description lore-accurate?**  
   
-I have no idea. I frankly do not care, and changing the item itself is tedious, but I will if extraordinary circumstances warrant it.
+I have no idea. Probably not. I frankly do not care, and changing the item itself is tedious, but I will if extraordinary circumstances warrant it.
   
 **9. Can't you implement \[a cost]?**  
   

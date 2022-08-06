@@ -1,3 +1,6 @@
+Warning:
+- This datapack may conflict with future versions of Drehmal. This is intended for v2.1.
+
 How it works:
 
 - The loot table gets the skull of the player who loots the table, which contains the player name as a plaintext string in SkullOwner.Name

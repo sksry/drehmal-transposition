@@ -48,7 +48,7 @@ If popular demand for the ability to modify this datapack warrants it.
 
 **3. What happens if you teleport to a player that does not want to be teleported to?**  
   
-Tell them to deal with it.
+Tell them to either deal with it or change their name to something 16 characters long.
   
 **4. Can you teleport back from the Terminus or teleport another player to you?**  
   

@@ -87,7 +87,7 @@ If there is one, please contact me on Discord (`seeksery#0382`). I will fix prob
   
 Mojang, in their infinite wisdom, decided to store strings as strings in some cases, as JSON in some other cases, and as JSON transformed into strings in still other cases. I can not use selectors to generate useful JSON strings with signs or loot tables, as it stores it in a format that can not be compared to the text within a book. Furthermore, I can not edit the data to be useful, as Minecraft offers no way of editing strings with commands. There is no reasonable way to get and store player names in a '{"text":"`name`"}' format, which is what I need to match the _content_ of the book. However, the _title_ of the book is a plaintext string. This can be directly compared to the `SkullOwner.Name` of a loot table-generated skull. As far as I'm aware, this is the only case where this is true for player names in all of Vanilla Minecraft.  
   
-If you decide to be a smart-aleck and say that I could make it so that you _rename_ items to choose a player to teleport to, I will:  
+If you decide to be a smart-aleck and say that I could make it so that you _rename_ the book to choose a player to teleport to, I will:  
 1. Commend you on your knowledge of the '{"text":"`name`"}' format.
 2. Bring harm to you through ways that I am not allowed to describe here.
 3. Point out that it would conflict with the ninth initial testing question.  

@@ -1,6 +1,6 @@
 # Warnings
-- This datapack may conflict with future versions of Drehmal. This is intended for v2.1.
-- You use this datapack at your own risk. This is open-source so you can personally determine whether or not this is safe to use. However, it is not commented for readability. 
+- This datapack may conflict with future versions of Drehmal. This is intended for v2.1.1.
+- You use this datapack at your own risk. This is open-source, so you can personally determine whether or not this is safe to use. However, it is not commented for readability (for the most part). 
 
 # Basics
 - The Book of Transposition is very easy to obtain. Type:

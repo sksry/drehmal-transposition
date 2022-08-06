@@ -61,7 +61,7 @@ Refer to the second question.
   
 **6. Can I use this?**  
   
-I can't stop you. Just don't claim that you made it, please.
+Feel free. Just don't claim that you made it, please.
   
 **7. Were these questions actually asked?**  
   

@@ -96,3 +96,7 @@ If you decide to be a smart-aleck and say that I could make it so that you _rena
 in that order. You have been warned.  
   
 As for the other limitation in question, for some reason, you can not `loot replace` any slot on an armor stand other than the helmet with a loot table-generated player head (even though you could reasonably want the stand to hold it, for example).
+  
+**3. Can I use this outside of Drehmel?**  
+  
+You _can,_ but I wouldn't recommend it. All of the messages are globally displayed for consistency with towers in Drehmal, but they may become annoying in a non-Drehmal playthrough. Additionally, the Terminus teleport would bring you to the middle of nowhere (unless you disable it; refer to the second initial testing question).

@@ -73,7 +73,7 @@ I have no idea. Probably not. I frankly do not care, and changing the item itsel
   
 **9. Can't you implement \[a cost]?**  
   
-I was going to implement a cost. I chose not to, because the SMP's coöwner threatened to only use /tp if I did. Refer to second question.
+I was going to implement a cost. I chose not to, because the SMP's coōwner threatened to only use /tp if I did. Refer to second question.
   
 **10. Aren't you the SMP owner?**  
   
@@ -101,6 +101,6 @@ As for the other limitation in question, for some reason, you can not `loot repl
   
 You _can,_ but I wouldn't recommend it. All of the messages are displayed globally for consistency with towers in Drehmal, but they may become annoying in a non-Drehmal playthrough. Additionally, the Terminus teleport would bring you to the middle of nowhere (unless you disable it; refer to the second initial testing question).  
   
-**4. "Coöwner"?  
+**4. "Coōwner"?**  
   
 https://www.newyorker.com/culture/culture-desk/the-curse-of-the-diaeresis

@@ -26,8 +26,8 @@ execute as @a at @s run function transposition:transposition/set_marker
 execute as @e[tag=sign_marker] store success entity @s ShowArms byte 1 run data modify entity @s ArmorItems[2].tag.SkullOwner.Name set from entity @a[tag=book_player_teleport,limit=1,sort=nearest] SelectedItem.tag.title
 
 execute if entity @e[nbt={ShowArms:0b},tag=fatal_sign_marker] run tag @s add book_player_teleport_fatal
-playsound minecraft:entity.zombie_villager.cure master @s[tag=book_player_teleport_fatal] ~ ~ ~ 100 1 1
-playsound minecraft:entity.wither.spawn master @s[tag=book_player_teleport_fatal] ~ ~ ~ 100 1 1
+execute at @s[tag=book_player_teleport_fatal] run playsound minecraft:entity.zombie_villager.cure master @a ~ ~ ~ 100 1 1
+execute at @s[tag=book_player_teleport_fatal] run playsound minecraft:entity.wither.spawn master @a ~ ~ ~ 100 1 1
 execute at @s[tag=book_player_teleport_fatal] run particle minecraft:end_rod ~ ~ ~ 0 0.5 0 0.6 500 force
 execute at @s[tag=book_player_teleport_fatal] run particle explosion_emitter ~ ~ ~ 0 0 0 1 1 force
 execute as @s[tag=book_player_teleport_fatal] run tellraw @a [{"text":"["},{"text":"ａｖＳＹＳ","color":"aqua"},{"text":"] ／／ＥＲＲ： ＦＡＴＡＬ ＴＲＡＮＳＰＯＳＩＴＩＯＮ ＥＲＲＯＲ／／","color":"white"}]

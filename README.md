@@ -73,7 +73,7 @@ I have no idea. Probably not. I frankly do not care, and changing the item itsel
   
 **9. Can't you implement \[a cost]?**  
   
-I was going to implement a cost. I chose not to, because the SMP's coöwner threatened to only use /tp if I did. Refer to second question.
+I was going to implement a cost. I chose not to, because the SMP's coöwner threatened to only use /tp if I did. Refer to the second question.
   
 **10. Aren't you the SMP owner?**  
   
